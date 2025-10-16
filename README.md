@@ -16,12 +16,13 @@ This is a Spring Boot application that integrates with OpenAI's API to summarize
 
 ## 🔧 Prerequisites
 
-- Java 17+
+- Java 21
 - Maven
-- Docker (optional)
+- Docker 
 - OpenAI API Key
+- GitHub
 
----
+
 
 ## 🔐 Environment Setup
 
